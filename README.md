@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [My Personal Website - Soon](#)
 
-- 📫 How to reach me **en.bassem@icloud.com**
+- 📫 How to reach me **en.bassem@icloud.com** or choose from the *Connect with me* menu.
 
 - 📄 Know about my experiences [#](#)
 
