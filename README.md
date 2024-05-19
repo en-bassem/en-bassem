@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Bassem Mohammed</h1>
 <h3 align="center">A passionate frontend developer from Egypt</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=en-bassem&label=Profile%20views&color=0e75b6&style=flat" alt="en-bassem" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=en-bassem&label=Profile%20views&color=0e75b6&style=flat" alt="en-bassem" /> </p>
 
 
-<p align="left"> <a href="https://twitter.com/des_bassem" target="blank"><img src="https://img.shields.io/twitter/follow/des_bassem?logo=twitter&style=for-the-badge" alt="des_bassem" /></a> </p>
+<p align="center"> <a href="https://twitter.com/des_bassem" target="blank"><img src="https://img.shields.io/twitter/follow/des_bassem?logo=twitter&style=for-the-badge" alt="des_bassem" /></a> </p>
 
 - 🔭 I’m currently working on [Dettaglioauto Saudi Arabia](https://dettaglioauto.sa)
 
@@ -21,6 +21,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
+<a href="https://wa.me/+966563669696"><img align="center" src="https://www.cdnlogo.com/logos/w/29/whatsapp-icon.svg" alt="Bassem Mohammed" height="30" width="40" ></a>
 <a href="https://twitter.com/des_bassem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="des_bassem" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/swefy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="#" height="30" width="40" /></a>
 <a href="https://www.facebook.com/bassemelswefy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="#" height="30" width="40" /></a>
