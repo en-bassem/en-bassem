@@ -14,9 +14,7 @@
 
 - 📫 How to reach me **en.bassem@icloud.com** or choose from the *Connect with me* menu.
 
-- 📄 Know about my experiences [#](#)
-
-- ⚡ Fun fact **Something I can improve about myself is my software knowledge, which is why I currently take technology courses during the evenings and weekends.**
+- ⚡ Fun fact : **Something I can improve about myself is my software knowledge, which is why I currently take technology courses during the evenings and weekends.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
