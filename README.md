@@ -117,4 +117,8 @@
 
 <a href="https://postman.com" target="_blank" rel="noreferrer"> 
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
-</a> </p> </div>
+</a> </p> 
+
+<h3 align="left">Spotify</h3>
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31a53ud3xrjjiexox7ic57xlleci&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=c69c06&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31a53ud3xrjjiexox7ic57xlleci&redirect=true)
